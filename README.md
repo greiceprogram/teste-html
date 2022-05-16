@@ -5,8 +5,9 @@
   <p> HTML/CSS/GITHUB </p>
   
   
-  ![image](https://user-images.githubusercontent.com/103227472/168510738-7b71e224-9bf9-486a-bdd2-a6bd30928111.png)
- <footer>
+ ![image](https://user-images.githubusercontent.com/103227472/168511105-0317da2a-7f38-489b-ae43-0137b57a9429.png)
+
+
+<footer>
     <p> Greice Ap. Santana &copy; 2022 </p>
     </footer>
-
